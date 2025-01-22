@@ -1,16 +1,29 @@
-# shopping_app
+# Furniture Shopping App
+![Image](https://github.com/user-attachments/assets/23d62ce1-be31-43bc-a5a6-3eb6f4422610)
 
-A new Flutter project.
+# Slicing UI By Pasya, Design by Anastasia Golovko from dribbble.com
+![Image](https://github.com/user-attachments/assets/4c34ed4e-16c8-401e-bb9e-433977eb9033)
 
-## Getting Started
+## 📱 Features
+1. **UI Design**:
+   - Modern and clean design for furniture shopping.
+   - Beautiful card-based display for furniture items.
 
-This project is a starting point for a Flutter application.
+2. **Cart Management**:
+   - Add items to the cart.
+   - Increment and decrement item quantities directly from the cart.
+   - Remove items from the cart with an intuitive swipe gesture.
 
-A few resources to get you started if this is your first Flutter project:
+3. **Dynamic Total Price Calculation**:
+   - The app dynamically calculates and displays the total price of items in the cart.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+4. **Custom Animations**:
+   - Sliding actions for item deletion using flutter_slidable.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Packages Used
+- **flutter_bloc**: Implemented state management using the BLoC pattern.
+- **flutter_slidable**: Added swipe gestures for intuitive item deletion in the cart.
+  
+## 📱 App Demo
+https://github.com/user-attachments/assets/f740f2c9-68a9-4d53-8a34-bbfe058b454c
+---
